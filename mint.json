@@ -1,0 +1,20 @@
+{
+  "name": "FetchFox",
+  "colors": {
+    "accent": "#4ade80",
+    "accentForeground": "#ffffff"
+  },
+  "links": {
+    "github": "https://github.com/fetchfox/fetchfox",
+    "twitter": "https://twitter.com/FetchFox"
+  },
+  "sidebar": [
+    {
+      "section": "Getting Started",
+      "pages": ["quick-start"]
+    },
+  ],
+  "footer": {
+    "copyright": "© 2025 FetchFox"
+  }
+}
