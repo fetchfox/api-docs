@@ -12,7 +12,7 @@
     {
       "section": "Getting Started",
       "pages": ["quick-start"]
-    },
+    }
   ],
   "footer": {
     "copyright": "© 2025 FetchFox"
